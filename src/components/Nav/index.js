@@ -23,7 +23,7 @@ function Nav() {
 
     return(
         <header>
-            <h2>
+            <h2 className="flex-row">
                 <a href="/">
                     <span role="img" aria-label="camera"> 📸</span> Oh Snap!
                 </a>
